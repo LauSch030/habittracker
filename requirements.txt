@@ -1,0 +1,4 @@
+pytest
+click
+tkinter
+sqlite3
